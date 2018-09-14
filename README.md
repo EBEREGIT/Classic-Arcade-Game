@@ -6,7 +6,7 @@ This project is a game which the player walks through grassland and plane ground
 -- https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
 
 ## Getting Started
-You can click here to play the game or clone/download this project to your computer. After cloning, you will find an index.html file in the folder. open the file with any web browser
+You can click https://eberegit.github.io/Classic-Arcade-Game/index.html to play the game or clone/download this project to your computer. After cloning, you will find an index.html file in the folder. open the file with any web browser
 
 ### How to play the game
 use the arrow keys to move around the game board until you get the water up i.e the blue part of the game above
