@@ -2,8 +2,8 @@
 This project is a game which the player walks through grassland and plane ground to a water body to win
 
 ## Dependencies
--- https://fonts.googleapis.com/css
--- https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
+* https://fonts.googleapis.com/css
+* https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
 
 ## Getting Started
 You can click https://eberegit.github.io/Classic-Arcade-Game/index.html to play the game or clone/download this project to your computer. After cloning, you will find an index.html file in the folder. open the file with any web browser
