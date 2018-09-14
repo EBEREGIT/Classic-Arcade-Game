@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Effective JavaScript: Frogger</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Kavoon" rel="stylesheet">
+    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+</head>
+<body>
+	<!-- modal starts here -->
+    <div class="modal">
+        <div class="inner">
+            <h2 id="status"></h2>
+
+            <h3 id="earnings"></h3>
+            
+            <button id="play-again">Play Again?</button>
+        </div>
+    </div>
+	<section id='gameHeader'>
+		<h1>Classic Arcade Game</h1>
+		<div>
+            <i id="scoreData" class="fa fa-dollar">--</i>
+        </div>
+        <div>
+            <i id="timerData" class="fa fa-clock-o">--</i>
+        </div>
+        <div>
+    		<i id="restart" class="fa fa-repeat"></i>
+    	</div>
+   	</section>
+    <script src="js/resources.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/engine.js"></script>
+</body>
+</html>
